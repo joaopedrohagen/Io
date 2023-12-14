@@ -2,7 +2,7 @@
   <br>
   <img src="Io.png" width="200">
   <br>
-  Io - BR ZIP code finder
+  Io - CEPhinder
   <br>
 </h1>
 
@@ -12,7 +12,7 @@
 
 [![Watch my demo video](https://img.youtube.com/vi/mmdf8XGnLNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=mmdf8XGnLNw)
 
-Io is a BR ZIP code finder developed using Django and Bootstrap. It enables instant searching of ZIP codes with a user-friendly and responsive interface.
+Io - CEPhinder is a BR ZIP code finder developed using Django and Bootstrap. It enables instant searching of ZIP codes with a user-friendly and responsive interface.
 
 ## Key Features
 
