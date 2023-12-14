@@ -10,9 +10,7 @@
 
 ---
 
-<video width="640" height="360" controls>
-  <source src="URL_DO_SEU_VIDEO.mp4" type="video/mp4">
-</video>
+[![Watch my demo video](https://img.youtube.com/vi/mmdf8XGnLNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=mmdf8XGnLNw)
 
 Io is a BR ZIP code finder developed using Django and Bootstrap. It enables instant searching of ZIP codes with a user-friendly and responsive interface.
 
