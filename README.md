@@ -13,8 +13,8 @@
 [![Watch my demo video](https://img.youtube.com/vi/mmdf8XGnLNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=mmdf8XGnLNw)
 # 
 
-![npm](https://img.shields.io/badge/Python-3.10.12-yellow)
-![npm](https://img.shields.io/badge/Django-5.0-brown)
+![python](https://img.shields.io/badge/Python-3.10.12-yellow)
+![django](https://img.shields.io/badge/Django-5.0-brown)
 [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/joaopedrohagen)
 
 
