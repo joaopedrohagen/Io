@@ -32,9 +32,9 @@ To start using Mercury CRM, follow these steps:
 1. Clone the repository:
 ``` git clone https://github.com/joaopedrohagen/Io.git ```
 
-2. Create and activate a virtual environment:
-On Windows: ``` venv\Scripts\activate ```
-On Linux/Mac: ``` source venv/bin/activate ```
+2. Create and activate a virtual environment: 
+* On Windows: ``` venv\Scripts\activate ``` 
+* On Linux/Mac: ``` source venv/bin/activate ``` 
 
 3. Install the dependencies:
 ``` pip install -r requirements.txt ```
